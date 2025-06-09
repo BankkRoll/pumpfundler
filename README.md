@@ -4,8 +4,8 @@ pumpfundler-sdk is a powerful TypeScript library for interacting with the PumpFu
 
 ## Repository Structure
 
-- `/docs`: Contains detailed documentation for the SDK - [View Docs](https://pumpfundler.mintlify.app/)
-- `/pkg`: Contains the SDK package code - [View Package](https://www.npmjs.com/package/pumpfundler-sdk)
+- `/docs`: Contains detailed documentation for the SDK
+- `/pkg`: Contains the SDK package code
 
 ---
 
