@@ -33,7 +33,7 @@ pumpfundler-sdk is a powerful TypeScript library for interacting with the PumpFu
 
 ## Documentation
 
-For detailed documentation, please refer to the `/docs` directory or visit the [documentation site](https://pumpfundler.mintlify.app/).
+For detailed documentation, please refer to the `/docs` directory.
 
 ## License
 
